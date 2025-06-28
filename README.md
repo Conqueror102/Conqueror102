@@ -1,10 +1,11 @@
-## 👋 Hey there, I'm Victor Vector!
+## 👋 Hey there, I'm Victor Conqueror!
 
 I'm a **full-stack JavaScript developer** passionate about building practical, real-world solutions for people and businesses. I love working with modern web technologies, scalable APIs, and always stay hungry to learn more.
 
 > _“Build solutions that matter.”_ ⚡
 
 ---
+https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome
 
 ### 🛠️ Tech Stack
 
