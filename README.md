@@ -5,7 +5,7 @@ I'm a **full-stack JavaScript developer** passionate about building practical, r
 > _“Build solutions that matter.”_ ⚡
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome" alt="Victor Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Welcome" alt="Victor Banner"/>
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
