@@ -1,6 +1,5 @@
 
 ![Conqueror102's GitHub Banner](https://raw.githubusercontent.com/Conqueror102/Conqueror102/main/banner.png)
-
 ## 👋 Hey there, I'm Victor Conqueror!
 
 I'm a **full-stack JavaScript developer** passionate about building practical, real-world solutions for people and businesses. I love working with modern web technologies, scalable APIs, and always stay hungry to learn more.
